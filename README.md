@@ -1,6 +1,7 @@
 # polychip
 Python program to extract a netlist of NMOS transistors from an Inkscape diagram, and recognize various gates.
 
+git test
 ## Prerequisites
 
 ### Python 3.6 or above
